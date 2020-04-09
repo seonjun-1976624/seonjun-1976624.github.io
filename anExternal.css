@@ -1,0 +1,15 @@
+#margin {
+    margin: 20px
+  }
+
+#dotted {
+    border-style: dotted;
+}
+
+#floated {
+    float:right;
+}
+  
+#rounded {
+    border-radius:50px;
+}
